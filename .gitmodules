@@ -1,0 +1,3 @@
+[submodule "Netopeer2/Netopeer2"]
+	path = Netopeer2/Netopeer2
+	url = https://github.com/CESNET/Netopeer2
